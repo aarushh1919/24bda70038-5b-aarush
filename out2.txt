@@ -1,0 +1,31 @@
+Vercel CLI 50.6.1
+Retrieving project…
+The `name` property in vercel.json is deprecated (https://vercel.link/name-prop)
+Deploying aarushh1919s-projects/24bda70038-5b-aarush
+Uploading [--------------------] (0.0B/15KB)
+Uploading [=======-------------] (5.4KB/15KB)
+Uploading [==========----------] (7.8KB/15KB)
+Uploading [===============-----] (11.8KB/15KB)
+Uploading [====================] (15.0KB/15KB)
+Inspect: https://vercel.com/aarushh1919s-projects/24bda70038-5b-aarush/2PKqnhfwDVZQ4nDXhjB7sDwBWgvV [3s]
+Production: https://24bda70038-5b-aarush-jwzj8xgmn-aarushh1919s-projects.vercel.app [3s]
+https://24bda70038-5b-aarush-jwzj8xgmn-aarushh1919s-projects.vercel.appBuilding...
+Building...
+Building: Running build in Washington, D.C., USA (East) – iad1
+Building: Build machine configuration: 2 cores, 8 GB
+Building: Retrieving list of deployment files...
+Building: Downloading 69 deployment files...
+Building: Restored build cache from previous deployment (4KayzXK6jQ32E2cJtdFNHVwNfNX5)
+Building: Running "vercel build"
+Building: Vercel CLI 50.23.2
+Building: WARN! Due to `builds` existing in your configuration file, the Build and Development Settings defined in your Project Settings will not apply. Learn More: https://vercel.link/unused-build-settings
+Building: Installing dependencies...
+Building: up to date in 616ms
+Building: 22 packages are looking for funding
+Building: run `npm fund` for details
+Building: Build Completed in /vercel/output [4s]
+Building: Deploying outputs...
+[2K[1A[2K[GProduction: https://24bda70038-5b-aarush-jwzj8xgmn-aarushh1919s-projects.vercel.app [17s]
+Completing...
+Aliased: https://24bda70038-5b-aarush.vercel.app [17s]
+Due to `builds` existing in your configuration file, the Build and Development Settings defined in your Project Settings will not apply. Learn More: https://vercel.link/unused-build-settings

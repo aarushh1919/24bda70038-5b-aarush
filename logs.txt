@@ -1,0 +1,8 @@
+Vercel CLI 50.6.1
+The "--limit" option was ignored because it is now deprecated. Please remove it.
+Fetching deployment "24bda70038-5b-aarush.vercel.app" in aarushh1919s-projects
+Displaying runtime logs for deployment 24bda70038-5b-aarush-d2wdwet4g-aarushh1919s-projects.vercel.app (dpl_Ataue1FpgadjmnXUDWDgvncj4aWD) starting from Feb Th 02:02:25.66
+
+waiting for new logs...
+WARN! Exceeded query duration limit of 5 minutes
+

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Error</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="error-container">
+            <h1>❌ Error</h1>
+            <p class="error-message"><%= message %></p>
+            
+            <% if (error && error.stack && error.stack.length > 0) { %>
+                <details class="error-details">
+                    <summary>View Details</summary>
+                    <pre><%= error.stack %></pre>
+                </details>
+            <% } %>
+
+            <a href="/" class="btn btn-primary">Go Back Home</a>
+        </div>
+    </div>
+</body>
+</html>

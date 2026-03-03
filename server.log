@@ -1,0 +1,13 @@
+
+> student-management-system@1.0.0 start
+> node app.js
+
+
+    🎓 Student Management System
+    ================================
+    Server running on http://localhost:3000
+    Environment: development
+    Database: mongodb://localhost:27017/student-management-system
+    ================================
+    
+✅ MongoDB connected successfully
